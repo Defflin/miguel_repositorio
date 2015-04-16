@@ -3,4 +3,4 @@ PROYECTO DE PRUEBA
 
 Este es un proyecto de prueba realizado en el **CIFP DE AVILES**
 
-*Avilés 2015*
+*AvilÃ©s abril 2015*
